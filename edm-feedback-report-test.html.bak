@@ -8,15 +8,15 @@
 <body style="margin:0; padding:0; background:#f4f6fa; font-family:-apple-system, 'Apple SD Gothic Neo', sans-serif; text-align:center;">
 
 <!-- EDM start -->
-<div style="width:100%; text-align:center; padding:24px 0 48px;">
+<div style="padding:0;margin:0;width:100%;">
 
-<table width="790" cellpadding="0" cellspacing="0" border="0"
-	style="table-layout:fixed; width:790px; border-collapse:collapse; border: 1px solid #e7eaf0; margin:0 auto; background:#fff; font-family:-apple-system, 'Apple SD Gothic Neo', sans-serif;">
+<table cellpadding="0" cellspacing="0" border="0"
+	style="table-layout:fixed; width:100%; max-width:790px; min-width:700px; border-collapse:collapse; border: 1px solid #e7eaf0; margin:0 auto; background:#fff; font-family:-apple-system, 'Apple SD Gothic Neo', sans-serif;">
 
 	<tr>
 		<td width="45" style="width:45px;"></td>
 		<td width="700" style="width:700px; height:84px;">
-			<img src="images/img--edm-header-logo.jpg" alt="KOREAN AIR"
+			<img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/img--edm-header-logo.jpg" alt="KOREAN AIR"
 				style="display:block; width:200px; height:auto; border:0;">
 		</td>
 		<td width="45" style="width:45px;"></td>
@@ -38,7 +38,7 @@
 		<td style="text-align:center;">
 			<table cellpadding="0" cellspacing="0" border="0" style="display:inline-table; border-collapse:collapse;">
 				<tr>
-					<td style="vertical-align:middle; padding-right:4px;"><img src="images/ico-calendar.jpg" alt="" width="20" height="20" style="display:block; border:0;"></td>
+					<td style="vertical-align:middle; padding-right:4px;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-calendar.jpg" alt="" width="20" height="20" style="display:block; border:0;"></td>
 					<td style="vertical-align:middle; font-size:14px; color:#051766; line-height:20px;">2026-04-29</td><!-- {date} -->
 				</tr>
 			</table>
@@ -79,103 +79,103 @@
 								<td width="5" style="width:5px;"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td style="text-align:center;">
 									<div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;">
 									<table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;">
-										<tr><td style="text-align:center; vertical-align:middle;"><img src="images/ico-reservation.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr>
+										<tr><td style="text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-reservation.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr>
 									</table>
 									</div>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="6" style="height:6px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td style="text-align:center;">
 									<p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">01 예약</p>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="12" style="height:12px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle; white-space:nowrap;">코멘트</td>
+											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle;">코멘트</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle; white-space:nowrap;">4 건</td><!-- {comment_count[01]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle;">4 건</td><!-- {comment_count[01]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">싫어요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">싫어요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">10 건</td><!-- {dislike_count[01]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">10 건</td><!-- {dislike_count[01]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">좋아요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">좋아요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">51 건</td><!-- {like_count[01]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">51 건</td><!-- {like_count[01]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="16" style="height:16px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 						</table>
 						</div>
@@ -190,73 +190,73 @@
 						<table width="160" cellpadding="0" cellspacing="0" border="0"
 							style="table-layout:fixed; width:160px; border-collapse:collapse;">
 							<tr><td width="5" style="width:5px;"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td style="text-align:center;"><div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;"><table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;"><tr><td style="text-align:center; vertical-align:middle;"><img src="images/ico-baggage.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr></table></div></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="6" style="height:6px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td style="text-align:center;"><p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">02 여행준비</p></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="12" style="height:12px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
+							<tr><td width="5"></td><td style="text-align:center;"><div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;"><table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;"><tr><td style="text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-baggage.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr></table></div></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="6" style="height:6px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td style="text-align:center;"><p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">02 여행준비</p></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="12" style="height:12px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle; white-space:nowrap;">코멘트</td>
+											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle;">코멘트</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle; white-space:nowrap;">8 건</td><!-- {comment_count[02]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle;">8 건</td><!-- {comment_count[02]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">싫어요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">싫어요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">12 건</td><!-- {dislike_count[02]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">12 건</td><!-- {dislike_count[02]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">좋아요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">좋아요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">53 건</td><!-- {like_count[02]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">53 건</td><!-- {like_count[02]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
-							<tr><td width="5" style="width:5px;"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
+							<tr><td width="5"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
 						</table>
 						</div>
 					</td>
@@ -270,73 +270,73 @@
 						<table width="160" cellpadding="0" cellspacing="0" border="0"
 							style="table-layout:fixed; width:160px; border-collapse:collapse;">
 							<tr><td width="5" style="width:5px;"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td style="text-align:center;"><div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;"><table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;"><tr><td style="text-align:center; vertical-align:middle;"><img src="images/ico-skypass.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr></table></div></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="6" style="height:6px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td style="text-align:center;"><p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">03 스카이패스</p></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="12" style="height:12px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
+							<tr><td width="5"></td><td style="text-align:center;"><div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;"><table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;"><tr><td style="text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-skypass.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr></table></div></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="6" style="height:6px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td style="text-align:center;"><p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">03 스카이패스</p></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="12" style="height:12px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle; white-space:nowrap;">코멘트</td>
+											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle;">코멘트</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle; white-space:nowrap;">0 건</td><!-- {comment_count[03]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle;">0 건</td><!-- {comment_count[03]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">싫어요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">싫어요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">2 건</td><!-- {dislike_count[03]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">2 건</td><!-- {dislike_count[03]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">좋아요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">좋아요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">27 건</td><!-- {like_count[03]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">27 건</td><!-- {like_count[03]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
-							<tr><td width="5" style="width:5px;"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
+							<tr><td width="5"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
 						</table>
 						</div>
 					</td>
@@ -350,73 +350,73 @@
 						<table width="160" cellpadding="0" cellspacing="0" border="0"
 							style="table-layout:fixed; width:160px; border-collapse:collapse;">
 							<tr><td width="5" style="width:5px;"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td style="text-align:center;"><div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;"><table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;"><tr><td style="text-align:center; vertical-align:middle;"><img src="images/ico-my.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr></table></div></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="6" style="height:6px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td style="text-align:center;"><p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">04 MY</p></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td><td width="5" style="width:5px;"></td></tr>
-							<tr><td width="5" style="width:5px;"></td><td height="12" style="height:12px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
+							<tr><td width="5"></td><td style="text-align:center;"><div style="width:53px; height:53px; background-color:#F5FBFE; border-radius:50%; margin:0 auto; overflow:hidden;"><table width="53" height="53" cellpadding="0" cellspacing="0" border="0" style="width:53px; height:53px;"><tr><td style="text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-my.png" alt="" width="33" height="33" style="display:block; margin:0 auto; border:0;"></td></tr></table></div></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="6" style="height:6px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td style="text-align:center;"><p style="margin:0; font-size:14px; color:#000000; font-weight:600; line-height:1.5;">04 MY</p></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="10" style="height:10px; font-size:0; line-height:0; border-bottom:1px solid #e0e6f0;"></td><td width="5"></td></tr>
+							<tr><td width="5"></td><td height="12" style="height:12px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-comment.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle; white-space:nowrap;">코멘트</td>
+											<td width="34" style="width:34px; font-size:12px; color:#051766; font-weight:700; vertical-align:middle;">코멘트</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle; white-space:nowrap;">1 건</td><!-- {comment_count[04]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:700; color:#051766; text-align:right; vertical-align:middle;">1 건</td><!-- {comment_count[04]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-down.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">싫어요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">싫어요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">4 건</td><!-- {dislike_count[04]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">4 건</td><!-- {dislike_count[04]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td height="8" style="height:8px; font-size:0; line-height:0;"></td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
 							<tr>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 								<td>
 									<table width="150" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:150px; border-collapse:collapse;">
 										<tr>
 											<td width="12" style="width:12px;"></td>
-											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+											<td width="30" style="width:30px; text-align:center; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-thumb-up.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 											<td width="12" style="width:12px;"></td>
-											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle; white-space:nowrap;">좋아요</td>
+											<td width="34" style="width:34px; font-size:12px; color:#000; vertical-align:middle;">좋아요</td>
 											<td width="12" style="width:12px;"></td>
-											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle; white-space:nowrap;">42 건</td><!-- {like_count[04]} -->
+											<td width="38" style="width:38px; font-size:12px; font-weight:normal; color:#000; text-align:right; vertical-align:middle;">42 건</td><!-- {like_count[04]} -->
 											<td width="12" style="width:12px;"></td>
 										</tr>
 									</table>
 								</td>
-								<td width="5" style="width:5px;"></td>
+								<td width="5"></td>
 							</tr>
-							<tr><td width="5" style="width:5px;"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5" style="width:5px;"></td></tr>
+							<tr><td width="5"></td><td height="16" style="height:16px; font-size:0; line-height:0;"></td><td width="5"></td></tr>
 						</table>
 						</div>
 					</td>
@@ -446,7 +446,7 @@
 		<td width="45" style="width:45px;"></td>
 		<td style="text-align:left;">
 			<span style="font-size:16px; font-weight:700; color:#051766; vertical-align:middle;">01 예약</span>
-			<img src="images/ico-reservation.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
+			<img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-reservation.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
 		</td>
 		<td width="45" style="width:45px;"></td>
 	</tr>
@@ -497,11 +497,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">JA</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -553,11 +553,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">JA</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -610,11 +610,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">KO</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -683,11 +683,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">JA</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -716,7 +716,7 @@
 		<td width="45" style="width:45px;"></td>
 		<td style="text-align:left;">
 			<span style="font-size:16px; font-weight:700; color:#051766; vertical-align:middle;">02 여행준비</span>
-			<img src="images/ico-baggage.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
+			<img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-baggage.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
 		</td>
 		<td width="45" style="width:45px;"></td>
 	</tr>
@@ -767,11 +767,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">EN</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -823,11 +823,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">EN</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -896,11 +896,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">EN</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -969,11 +969,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">EN</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -1025,11 +1025,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#EEF8FD; color:#051766; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-up.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">좋아요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">EN</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
@@ -1059,7 +1059,7 @@
 		<td width="45" style="width:45px;"></td>
 		<td style="text-align:left;">
 			<span style="font-size:16px; font-weight:700; color:#051766; vertical-align:middle;">03 스카이패스</span>
-			<img src="images/ico-skypass.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
+			<img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-skypass.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
 		</td>
 		<td width="45" style="width:45px;"></td>
 	</tr>
@@ -1078,14 +1078,14 @@
 							<tr><td colspan="3" height="13" style="height:13px; font-size:0; line-height:0;"></td></tr>
 							<tr>
 								<td width="20" style="width:20px;"></td>
-								<td style="text-align:center;"><img src="images/ico-document.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
+								<td style="text-align:center;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-document.jpg" alt="" width="30" height="30" style="display:block; margin:0 auto; border:0;"></td>
 								<td width="20" style="width:20px;"></td>
 							</tr>
 							<tr><td colspan="3" height="8" style="height:8px; font-size:0; line-height:0;"></td></tr>
 							<tr>
-								<td width="20" style="width:20px;"></td>
-								<td style="text-align:center; font-size:13px; color:#5E5E5E;">등록된 코멘트가 없습니다.</td>
-								<td width="20" style="width:20px;"></td>
+								<td width="20"></td>
+								<td style="text-align:center; font-size:12px; color:#5E5E5E;">등록된 코멘트가 없습니다.</td>
+								<td width="20"></td>
 							</tr>
 							<tr><td colspan="3" height="13" style="height:13px; font-size:0; line-height:0;"></td></tr>
 						</table>
@@ -1106,7 +1106,7 @@
 		<td width="45" style="width:45px;"></td>
 		<td style="text-align:left;">
 			<span style="font-size:16px; font-weight:700; color:#051766; vertical-align:middle;">04 MY</span>
-			<img src="images/ico-my.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
+			<img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-my.png" alt="" width="33" height="33" style="display:inline-block; vertical-align:middle; border:0; margin-left:1px;">
 		</td>
 		<td width="45" style="width:45px;"></td>
 	</tr>
@@ -1157,11 +1157,11 @@
 						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed; width:100%;">
 							<tr>
 								<td style="text-align:left; vertical-align:middle;">
-									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
+									<span style="display:inline-block; height:28px; line-height:28px; padding:0 16px; border-radius:14px; font-size:10px; font-weight:600; background:#FFF5F5; color:#DA291C; margin-right:2px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/pub-ja/pub-edm-dd/main/images/ico-badge-thumb-down.png" alt="" width="20" height="20" style="display:inline-block; vertical-align:middle; border:0; margin-right:3px; margin-top:-2px;">싫어요</span><!-- {badge_type} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; margin-right:1px; vertical-align:middle;">APP</span><!-- {channel} -->
 									<span style="display:inline-block; height:23px; line-height:23px; padding:0 16px; border-radius:14px; font-size:10px; background:#F7F7F7; color:#051766; vertical-align:middle;">EN</span><!-- {lang} -->
 								</td>
-								<td width="100" style="width:100px; text-align:right; vertical-align:middle; white-space:nowrap;">
+								<td width="100" style="width:100px; text-align:right; vertical-align:middle;">
 									<!-- {qm_url} --><a href="#" target="_blank" style="display:inline-block; padding:9px 26px; border:2px solid #051766; border-radius:20px; font-size:12px; color:#051766; text-decoration:none; white-space:nowrap;">QM 보기</a>
 								</td>
 							</tr>
